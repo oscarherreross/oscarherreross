@@ -1,12 +1,12 @@
 <h1 align="center">Hola, soy Óscar Herreros Cañada 👋</h1>
 
-<h3 align="center">
-  Ingeniero Informático · Software Developer · Java, Spring Boot, Python e IA
-</h3>
-
 <p align="center">
-  Desarrollo aplicaciones orientadas a resolver problemas reales, desde servicios backend
-  y agentes de IA hasta aplicaciones web y móviles.
+  <a href="https://github.com/oscarherreross">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&repeat=true&width=850&lines=Ingeniero+Inform%C3%A1tico+%7C+Software+Developer;Java+%7C+Spring+Boot+%7C+Python+%7C+Inteligencia+Artificial;Construyendo+software+para+resolver+problemas+reales"
+      alt="Ingeniero Informático, Software Developer y desarrollador de soluciones con inteligencia artificial"
+    />
+  </a>
 </p>
 
 <p align="center">
